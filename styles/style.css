@@ -188,3 +188,14 @@
 .btn{
     border-radius: 0;
 }
+
+/* Footer Style */
+.donate-footer{
+    background: #0B0D17;
+}
+.footer-content{
+    text-align: center;
+    color: white;
+    padding: 30px;
+
+}
