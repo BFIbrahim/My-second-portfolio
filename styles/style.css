@@ -1,0 +1,41 @@
+/* Primary design */
+*{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.btn-primary{
+    background: #FF5959;
+    border-radius: 5px;
+    padding: 16px 12px;
+    color: #FFFFFF;
+    border: 0;
+    width: 160px;
+    margin-top: 30px;
+}
+
+/* Banner Styles */
+.banner-title{
+    font-size: 65px;
+}
+.banner{
+    background-color: #0000009e;
+    background-image: url('../images/donation5.jpg');
+    background-size: cover;
+    background-blend-mode: multiply;
+
+}
+.banner-content{
+    text-align: center;
+    align-items: center;
+    padding: 200px;
+    color: #FFFFFF;
+    width: 826px;
+
+}
+
+.banner-description{
+    font-size: 18px;
+    margin-top: 50px;
+}
+
