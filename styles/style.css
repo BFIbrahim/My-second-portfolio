@@ -125,3 +125,34 @@
     font-size: 18px;
     color: #707070;
 }
+/* Donate section One styles */
+
+.donate-section-one{
+    width: 826px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.donate-container{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.donate-section-one-image{
+    width: 456px;
+}
+.donate-section-one-image img{
+    width: 100%;
+    height: 300px;
+}
+.donate-section-one-content{
+    width: 493px;
+}
+.donate-section-one-title{
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.donate-section-one-title-description{
+    color: #707070;
+    font-size: 18px;
+}
