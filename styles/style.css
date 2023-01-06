@@ -60,13 +60,68 @@
     margin-bottom: 30px;
 
 }
+.donate-amount h2:hover{
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
 .donate-amount h2{
     margin-right: 40px;
     color: #707070;
+    padding: 20px;
 }
 .donate-today-description{
     color: #707070;
 }
 .donate-another-amount{
+    color: #707070;
+}
+
+/* Donate Plan Styles */
+
+.Donate-plan-content{
+    width: 826px;
+    margin: auto;
+    text-align: center;
+}
+.donate-plan-box{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 30px;
+    width: 900px;
+    height: 280px;
+}
+.Donate-plan-title{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.plan-item{
+    padding: 20px 30px;
+    text-align: left;
+}
+.paln-item-title{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border-radius: 5px;
+}
+.one{
+    background: rgba(79, 157, 166, 0.1);
+}
+.two{
+    background: rgba(255, 89, 89, 0.1)
+}
+.three{
+    background: #FFF4D6;
+}
+.plan-item-discription{
+    color: #707070;
+}
+.donate-plan-description{
+    font-size: 18px;
     color: #707070;
 }
