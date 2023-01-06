@@ -12,6 +12,7 @@
     border: 0;
     width: 160px;
     margin-top: 30px;
+    font-weight: 600;
 }
 
 /* Banner Styles */
@@ -31,6 +32,7 @@
     padding: 200px;
     color: #FFFFFF;
     width: 826px;
+    margin: auto;
 
 }
 
@@ -39,3 +41,32 @@
     margin-top: 50px;
 }
 
+/* Donate Today Styles */
+
+.donate-today-content{
+    text-align: center;
+    margin: 50px auto;
+    width: 826px;
+}
+.donate-today-title{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.donate-amount{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.donate-amount h2{
+    margin-right: 40px;
+    color: #707070;
+}
+.donate-today-description{
+    color: #707070;
+}
+.donate-another-amount{
+    color: #707070;
+}
