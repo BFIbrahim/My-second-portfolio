@@ -156,3 +156,35 @@
     color: #707070;
     font-size: 18px;
 }
+
+/* Contact Style */
+.contact-content{
+    text-align: center;
+    margin: 100px auto;
+    width: 800px;
+}
+.contact-title{
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+.contact-description{
+    font-size: 18px;
+    color: #707070;
+}
+.contact-info input{
+    width: 275px;
+    height: 47px;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    border: 0;
+    margin-right: -8px;
+}
+.contact-info{
+    background: #FFF4D6;
+    padding: 100px;
+    margin-top: 30px;
+
+}
+.btn{
+    border-radius: 0;
+}
